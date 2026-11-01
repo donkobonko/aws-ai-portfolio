@@ -1,7 +1,0 @@
-request_id,business_request,latency_requirement,monthly_volume,constraint,instructor_key
-R1,Compute each employee's overtime pay from hours worked and hourly rate,none,120000,none,
-R2,Flag transactions that are probably fraudulent so an analyst can review them,40 ms,95000000,declines must be explainable to a regulator at the feature level,
-R3,Summarize each incoming customer support email into two sentences for the queue,3 s,210000,none,
-R4,Detect and blur license plates in photographs uploaded to a marketplace,2 s,480000,none,
-R5,Answer employee questions from the 400 page internal HR handbook,5 s,18000,answers must cite the handbook section,
-R6,Decide which two employees to lay off from a five person team,none,4,"no reliable ground truth, severe consequences for individuals",

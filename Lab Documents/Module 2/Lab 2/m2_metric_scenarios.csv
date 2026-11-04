@@ -1,0 +1,5 @@
+scenario_id,scenario,true_positive,false_positive,false_negative,true_negative,dollar_cost_per_false_positive,dollar_cost_per_false_negative,accuracy,precision,recall,f1
+S1,Hospital sepsis screening,40,8,2,950,1,250000,0.99,0.8333,0.9524,0.8889
+S2,Enterprise spam filter,1200,95,310,48000,40,12,0.9918,0.9266,0.7947,0.8556
+S3,Warehouse part defect scan,310,44,26,9600,85,900,0.993,0.8757,0.9226,0.8986
+S4,Loan pre-approval triage,520,130,95,4100,300,3200,0.9536,0.8,0.8455,0.8221

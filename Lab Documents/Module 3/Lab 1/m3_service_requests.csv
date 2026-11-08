@@ -1,0 +1,9 @@
+request_id,business_request,latency_requirement,monthly_volume,constraint
+R1,Read handwritten delivery notes photographed by drivers and pull out the recipient name and the signature date,none,90000,"the value is in the form fields and their relationships, not in what the photo shows"
+R2,Transcribe recorded pharmacy consultations and flag every medication mentioned,none,1200 hours,"clinical vocabulary, and the output is stored in a HIPAA eligible service"
+R3,Answer inbound customer phone calls with a voice bot that can book an appointment,800 ms,60000 calls,"the bot has to hold a slot filling conversation and speak back, not produce an essay"
+R4,"Translate a 60,000 word product catalog into six languages every week",none,1440000 words,the budget is 300 dollars a month for the whole job
+R5,Block uploaded profile photos that contain nudity or graphic violence before they appear on the site,300 ms,2100000,"the decision is about whether content is permitted, not about what object is in the frame"
+R6,Find personally identifiable information in customer chat transcripts where roughly 40 percent of the chats are in Spanish,none,480000,the detector has to be told which language it is reading
+R7,Show a live human agent a running sentiment read on the chat they are handling so they can escalate,500 ms per message,9000000,"the agent needs it during the conversation, not after it"
+R8,Turn 400 page quarterly compliance filings into a one page brief for the board,none,40 filings,"the brief has to be new prose, not a list of extracted phrases"

@@ -1,0 +1,61 @@
+ticket_id,ticket_text,contains_pii_key
+T001,"Hi, this is Sam Reyes. My order has not arrived. You can reach me at sam.reyes@example.com or 310-555-5787.",yes
+T002,"Hi, this is Victor Okafor. My order has not arrived. You can reach me at victor.okafor@example.com or 310-555-8858.",yes
+T003,Please cancel the subscription for dana.kim@example.com. My name is Dana Kim and my number is 310-555-9558.,yes
+T004,"Hi, this is Tom Moreno. My order has not arrived. You can reach me at tom.moreno@example.com or 310-555-6203.",yes
+T005,Order for Priya Moreno was delivered to the wrong address at 2661 Ocean Ave. Call 310-555-2822.,yes
+T006,The size chart link returns a 404 error.,no
+T007,Order for Priya Doyle was delivered to the wrong address at 1250 Ocean Ave. Call 310-555-9087.,yes
+T008,Tom Petrov here. I was double charged. Card ending 2252. Email tom.petrov@example.com.,yes
+T009,Miguel Hassan here. I was double charged. Card ending 7390. Email miguel.hassan@example.com.,yes
+T010,Order for Miguel Reyes was delivered to the wrong address at 2544 Ocean Ave. Call 310-555-7032.,yes
+T011,"Following up on ticket 4412. Priya Nguyen, priya.nguyen@example.com. Still no refund.",yes
+T012,Do you ship to Canada.,no
+T013,Order for Victor Bauer was delivered to the wrong address at 412 Ocean Ave. Call 310-555-4882.,yes
+T014,Order for Lena Doyle was delivered to the wrong address at 2815 Ocean Ave. Call 310-555-6428.,yes
+T015,"Hi, this is Sam Bauer. My order has not arrived. You can reach me at sam.bauer@example.com or 310-555-4950.",yes
+T016,"Following up on ticket 4412. Sam Okafor, sam.okafor@example.com. Still no refund.",yes
+T017,Omar Reyes here. I was double charged. Card ending 7060. Email omar.reyes@example.com.,yes
+T018,Do you ship to Canada.,no
+T019,Victor Nguyen here. I was double charged. Card ending 4017. Email victor.nguyen@example.com.,yes
+T020,Miguel Reyes here. I was double charged. Card ending 3043. Email miguel.reyes@example.com.,yes
+T021,"Following up on ticket 4412. Victor Okafor, victor.okafor@example.com. Still no refund.",yes
+T022,Order for Aisha Doyle was delivered to the wrong address at 936 Ocean Ave. Call 310-555-4247.,yes
+T023,"Hi, this is Grace Okafor. My order has not arrived. You can reach me at grace.okafor@example.com or 310-555-7842.",yes
+T024,Do you ship to Canada.,no
+T025,"Following up on ticket 4412. Priya Okafor, priya.okafor@example.com. Still no refund.",yes
+T026,Omar Petrov here. I was double charged. Card ending 1493. Email omar.petrov@example.com.,yes
+T027,Order for Dana Bauer was delivered to the wrong address at 676 Ocean Ave. Call 310-555-3279.,yes
+T028,Order for Aisha Petrov was delivered to the wrong address at 2709 Ocean Ave. Call 310-555-4785.,yes
+T029,"Hi, this is Dana Silva. My order has not arrived. You can reach me at dana.silva@example.com or 310-555-3933.",yes
+T030,The website is down for me since this morning.,no
+T031,Sam Silva here. I was double charged. Card ending 3999. Email sam.silva@example.com.,yes
+T032,"Following up on ticket 4412. Victor Bauer, victor.bauer@example.com. Still no refund.",yes
+T033,Please cancel the subscription for dana.petrov@example.com. My name is Dana Petrov and my number is 310-555-1893.,yes
+T034,Miguel Reyes here. I was double charged. Card ending 4789. Email miguel.reyes@example.com.,yes
+T035,Victor Bauer here. I was double charged. Card ending 4652. Email victor.bauer@example.com.,yes
+T036,Do you ship to Canada.,no
+T037,"Following up on ticket 4412. Grace Nguyen, grace.nguyen@example.com. Still no refund.",yes
+T038,"Following up on ticket 4412. Grace Hassan, grace.hassan@example.com. Still no refund.",yes
+T039,"Hi, this is Sam Nguyen. My order has not arrived. You can reach me at sam.nguyen@example.com or 310-555-7105.",yes
+T040,"Hi, this is Priya Petrov. My order has not arrived. You can reach me at priya.petrov@example.com or 310-555-6774.",yes
+T041,"Following up on ticket 4412. Aisha Kim, aisha.kim@example.com. Still no refund.",yes
+T042,Please send an invoice copy for the last order.,no
+T043,Order for Dana Hassan was delivered to the wrong address at 2565 Ocean Ave. Call 310-555-5799.,yes
+T044,Lena Reyes here. I was double charged. Card ending 2523. Email lena.reyes@example.com.,yes
+T045,"Following up on ticket 4412. Victor Silva, victor.silva@example.com. Still no refund.",yes
+T046,Order for Miguel Kim was delivered to the wrong address at 2965 Ocean Ave. Call 310-555-7329.,yes
+T047,"Following up on ticket 4412. Grace Okafor, grace.okafor@example.com. Still no refund.",yes
+T048,The website is down for me since this morning.,no
+T049,Aisha Bauer here. I was double charged. Card ending 8391. Email aisha.bauer@example.com.,yes
+T050,Order for Priya Nguyen was delivered to the wrong address at 723 Ocean Ave. Call 310-555-0709.,yes
+T051,Victor Doyle here. I was double charged. Card ending 4322. Email victor.doyle@example.com.,yes
+T052,"Following up on ticket 4412. Omar Okafor, omar.okafor@example.com. Still no refund.",yes
+T053,Order for Sam Okafor was delivered to the wrong address at 1456 Ocean Ave. Call 310-555-1293.,yes
+T054,The size chart link returns a 404 error.,no
+T055,Please cancel the subscription for sam.moreno@example.com. My name is Sam Moreno and my number is 310-555-4174.,yes
+T056,Order for Tom Petrov was delivered to the wrong address at 193 Ocean Ave. Call 310-555-7614.,yes
+T057,Order for Lena Nguyen was delivered to the wrong address at 1906 Ocean Ave. Call 310-555-9010.,yes
+T058,"Hi, this is Grace Bauer. My order has not arrived. You can reach me at grace.bauer@example.com or 310-555-6155.",yes
+T059,Tom Nguyen here. I was double charged. Card ending 3527. Email tom.nguyen@example.com.,yes
+T060,The website is down for me since this morning.,no

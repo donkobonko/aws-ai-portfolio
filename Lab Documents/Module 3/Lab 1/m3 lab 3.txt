@@ -1,0 +1,93 @@
+step 2
+
+offset mode
+NAME, Sam Reyes, 0.99+, B:12 E:21
+EMAIL, sam.reyes@example.com, 0.99+, B:69 E:90
+PHONE, 310-555-5787, 0.99+, B:94 E:106
+
+label mode
+EMAIL, 1.00
+NAME, 1.00
+PHONE, 1.00
+
+the confidence type changed, and we lost info on what the PII was and the offset numbers.
+
+
+step 3
+
+ticket #2 "Hi, this is Victor Okafor. My order has not arrived. You can reach me at victor.okafor@example.com or 310-555-8858."
+{
+    "Entities": [
+        {
+            "Score": 0.9998760223388672,
+            "Type": "NAME",
+            "BeginOffset": 12,
+            "EndOffset": 25
+        },
+        {
+            "Score": 0.9999629259109497,
+            "Type": "EMAIL",
+            "BeginOffset": 73,
+            "EndOffset": 98
+        },
+        {
+            "Score": 0.9992141723632812,
+            "Type": "PHONE",
+            "BeginOffset": 102,
+            "EndOffset": 114
+        }
+    ]
+}
+
+ticket #3 "Please cancel the subscription for dana.kim@example.com. My name is Dana Kim and my number is 310-555-9558."
+{
+    "Entities": [
+        {
+            "Score": 0.9999818205833435,
+            "Type": "EMAIL",
+            "BeginOffset": 35,
+            "EndOffset": 55
+        },
+        {
+            "Score": 0.9999115467071533,
+            "Type": "NAME",
+            "BeginOffset": 68,
+            "EndOffset": 76
+        },
+        {
+            "Score": 0.9993269443511963,
+            "Type": "PHONE",
+            "BeginOffset": 94,
+            "EndOffset": 106
+        }
+    ]
+}
+
+ticket #4
+{
+    "Entities": [
+        {
+            "Score": 0.9999464750289917,
+            "Type": "NAME",
+            "BeginOffset": 29,
+            "EndOffset": 38
+        },
+        {
+            "Score": 0.9999813437461853,
+            "Type": "EMAIL",
+            "BeginOffset": 40,
+            "EndOffset": 61
+        }
+    ]
+}
+
+My cutoff:            0.97
+Detections it drops:  Names that sound like nouns or mispellings in names or addresses
+Why this number:      Picked this number because the model seems really smart and strong, so those detections that I mentioned might pull a lower confidence score.
+
+lines checked                          12
+key says these contain personal data   10
+fully redacted                         11
+something personal still visible       0   line N/A
+clean line with something redacted     1   line 12
+
